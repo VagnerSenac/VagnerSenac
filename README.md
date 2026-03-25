@@ -9,7 +9,7 @@ Atualmente atuo como docente de TI, buscando ampliar meus conhecimentos  e novas
 
 
 - 🌐 <b>Desenvolvimento web utilizando HTML, CSS, JavaScript, PHP.</b>
-- 📅 <b>Gerncianto em Banco de dados.</b>
+- 📅 <b>Gerenciamento de Banco de dados.</b>
 - 🖥  <b>Desenvolvimento em Wordpress.</b>
 - 💻 <b>Desenvolvimento desktop utilizando C#.</b>
 <hr>
