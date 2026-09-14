@@ -29,7 +29,4 @@ Quando não estou codificando ou ministrando aulas, dedico meu tempo livre ao un
 
 🖌️ Pintura Realista: Acabamento manual, aerografia e detalhamento de figuras colecionáveis e bustos.
 <hr>
-<p align="center"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vagnersenac&show_icons=true&layout=compact" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnersenac&show_icons=true&layout=compact" />
-</p>
+
